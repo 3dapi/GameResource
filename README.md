@@ -1,0 +1,2 @@
+# GameResource
+game resource
